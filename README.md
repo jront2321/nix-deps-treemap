@@ -1,5 +1,7 @@
 # Dependency graph treemap visualization! :)
 
+Shows disk space used per dependency.
+
 ![image](https://github.com/user-attachments/assets/0d931c01-df08-405a-b7ef-5485df7d2901)
 
 ## Instructions
